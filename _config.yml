@@ -1,5 +1,5 @@
 remote_theme: mmistakes/minimal-mistakes
-minimal_mistakes_skin    : "auqa"
+minimal_mistakes_skin: "auqa"
 
 
 locale: "UTF-8"
