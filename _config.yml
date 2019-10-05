@@ -10,3 +10,5 @@ description: "테스트용"
 url: "https://Hussu-Joe.github.io"
 baseurl: ""
 repository: "Hussu-Joe/Hussu_Data"
+
+theme: jekyll-theme-tactile
