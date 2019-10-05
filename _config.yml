@@ -2,7 +2,7 @@ theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin    : "auqa"
 
 
-locale: "UTF-8"
+locale: "en-US"
 title: "데이터 깎는 노인"
 title_separator:"-"
 name:"Hussu"
