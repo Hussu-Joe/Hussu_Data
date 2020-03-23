@@ -9,5 +9,5 @@
 ## Programing Skills
 ### - R : 데이터전처리, 시각화, 텍스트마이닝, 통계분석, 머신러닝 등
 ### - Python : 데이터전처리, 시각화, 텍스트마이닝, 머신러닝, 딥러닝 등
-### - SQL : 테이블 생성, 조건부 SELECT, 조인 등
+### - SQL : 테이블 생성, 조건부 SELECT, Join 등
 ### - 딥러닝 프레임워크: Tensorflow, Keras, Pytorch
